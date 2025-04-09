@@ -1,7 +1,7 @@
 ## Funcionamento
-### Programa Detecta Cores vermelhas (é possivel selecionar outras cores) e enquadra essas figuras com um retangulo verde na tela "Normal", com o filtro de                  ### Cores (BRG2HSV) aplicado é possivel enxergar os pixels que estão sendo filtrados pelo algoritimo na tela "Mascara".
-### 
-###  
+### Programa Detecta Cores vermelhas (é possivel selecionar outras cores) e enquadra essas figuras com um retangulo verde na tela "Normal", 
+### Com o filtro de cor (BRG2HSV) aplicado é possivel enxergar os pixels que estão sendo filtrados pelo algoritimo na tela "Mascara".
+
 
 # Filtrando Cor Vermelha de Um Chinelo
 ![Image](https://github.com/user-attachments/assets/35f9e755-1dc7-4f12-8fbd-c695a978ab84)
